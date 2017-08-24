@@ -1,2 +1,11 @@
-# UGR-GII-2-SO-Sistemas_Operativos-15-16-Practicas
-Prácticas de la asignatura SO (2 curso) realizadas en la ETSIIT, UGR en el curso 2015/2016 
+# Prácticas SO - 2º - UGR - ETSIIT - GII - PDF - C
+
+Prácticas realizadas en la asignatura SO (Sistemas Operativos) del grado en Ingeniería Informática en el curso 2015/2016, UGR.
+
+## Autor
+
+Francisco Javier Caracuel Beltrán
+
+fjcb312@gmail.com
+
+GNU General Public License v3.0
